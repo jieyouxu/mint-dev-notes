@@ -9,5 +9,4 @@ title = "Mint Development Notes"
 edition = "2021"
 
 [output.html]
-additional-css = ["custom.css"]
 mathjax-support = true
