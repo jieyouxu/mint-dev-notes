@@ -1,2 +1,1 @@
-# mint-dev-notes
-Mint development notes
+# Mint Development Notes

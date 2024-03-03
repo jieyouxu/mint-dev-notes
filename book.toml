@@ -1,0 +1,13 @@
+[book]
+authors = ["许杰友 Jieyou Xu (Joe)"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Mint Development Notes"
+
+[rust]
+edition = "2021"
+
+[output.html]
+additional-css = ["custom.css"]
+mathjax-support = true
