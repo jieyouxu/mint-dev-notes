@@ -18,7 +18,7 @@ merging. Since mods can contain `AssetRegister.bin` with invalid entries, it's b
 build up `AssetRegister.bin` for the merged mod pak by parsing mod assets and possibly after
 asset conflict resolution.
 
-The plan for asset registry support in Mint is like going to be in three steps:
+The plan for asset registry support in Mint is likely going to be in three steps:
 
 1. `AssetRegister.bin` serialization and deserialization
 2. Asset header information extraction
